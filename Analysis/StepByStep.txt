@@ -1,0 +1,33 @@
+1. Thu thập dữ liệu
+	- nguồn dữ liệu
+		- wikipedia
+		- báo
+		- văn bản chính quy: hiến pháp, luật, nghị định, ...		
+	- dữ liệu đúng chính tả
+	- dữ liệu sai chính tả
+
+2. Phân tích dữ liệu
+	- thống kê âm tiết
+	- thống kê từ (tokenizer)
+	- thống kê n-gram
+	- thống kê tần xuất sai chính tả
+	- thống kê chữ cái
+	- thống kê nguyên âm, phụ âm
+	- thống kê thanh sắc (dấu)
+	- thống kê dấu câu
+	- thống kê chữ viết hoa, thường
+
+3. Đưa ra mô hình đánh giá độ chính xác
+	- Đánh giá precision, recall, f-scrore	
+
+4. Lựa chọn các phương án
+	- edit distance
+	- thống kê
+	- machine learning: HMM, CRF, NN, ...
+	- ...
+	- ...
+
+
+5. Đánh giá các phương án
+
+6. Lặp lại bước 4, 5 kết hợp các phương án --> đưa ra kết quả

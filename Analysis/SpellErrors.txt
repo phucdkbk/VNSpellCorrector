@@ -1,0 +1,30 @@
+Sai chính tả trong Tiếng Việt:
+
+Chú ý trong Tiếng Việt:
+	- tiếng địa phương
+	- tiếng nóng - ngôn ngữ tuổi teen - ngôn ngữ chat
+	- tên riêng: người, địa danh, bài hát, ...
+	- từ viết tắt
+	- ngày tháng, số điện thoại, ...
+	- tiếng nước ngoài
+	
+
+Nguyên nhân sai chính tả
+	1. Gõ sai (typographical error - typo)
+		
+	2. Không biết nên sai
+		- ngọng
+		- nhầm các chữ thường gặp: s - x, l - n, y - i
+		- không biết quy tắc viết hoa, viết thường; quy tắc dấu câu
+	3. Cố tình viết sai
+		- chơi chữ
+		- châm biếm
+
+Phân loại sai chính tả
+	1. Sai ngữ nghĩa - Sai ngữ pháp
+		
+	2. Sai cách trình bày
+		- sai dấu câu
+		- sai viết hoa tên riêng
+		- sai viết hoa đầu dòng, câu
+	

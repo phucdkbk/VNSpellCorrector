@@ -1,0 +1,3 @@
+Error detection:
+	- N-gram analysis
+	- dictionary lookup

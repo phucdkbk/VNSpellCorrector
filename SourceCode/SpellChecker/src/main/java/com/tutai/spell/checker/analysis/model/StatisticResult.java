@@ -5,10 +5,26 @@
  */
 package com.tutai.spell.checker.analysis.model;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
 /**
  *
  * @author Administrator
+ * @param <K>
+ * @param <V>
  */
-public interface StatisticResult {
-    
+public class StatisticResult<K, V> {
+
+    public Map<K, V> mapResults;
+
+    public StatisticResult() {
+        this.mapResults = new HashMap<>();
+    }
+
+    public Set<K> getKeySet() {
+        return mapResults.keySet();
+    }
+
 }

@@ -5,10 +5,14 @@
  */
 package com.tutai.spell.checker.analysis.core;
 
+import com.tutai.spell.checker.analysis.model.StatisticResult;
+
 /**
  *
  * @author Administrator
  */
 public interface Statistic {
-    
+
+    public StatisticResult statistic(String... files) throws Exception;
+
 }

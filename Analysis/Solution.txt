@@ -1,3 +1,5 @@
 Error detection:
 	- N-gram analysis
-	- dictionary lookup
+	- dictionary lookup: vietnamese statistic, error statistic
+	- language model
+	- machine learning
